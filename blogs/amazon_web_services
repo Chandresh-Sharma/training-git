@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Amazon Web Services</title>
+	<style type = text/css>
+		h1, h3 {
+			text-align: center;
+		}
+	</style>
+</head>
+<body>
+	<h1>Amazon Web Services</h1>
+  <p>
+    Amazon Web Services, Inc. (AWS) is a subsidiary of Amazon that provides on-demand cloud computing platforms and APIs to individuals, companies, and governments, on a metered pay-as-you-go basis. These cloud computing web services provide distributed computing processing capacity and software tools via AWS server farms. One of these services is Amazon Elastic Compute Cloud (EC2), which allows users to have at their disposal a virtual cluster of computers, available all the time, through the Internet. AWS's virtual computers emulate most of the attributes of a real computer, including hardware central processing units (CPUs) and graphics processing units (GPUs) for processing; local/RAM memory; hard-disk/SSD storage; a choice of operating systems; networking; and pre-loaded application software such as web servers, databases, and customer relationship management (CRM).
+  </p>
+  <h3><a href="https://chandresh-sharma.github.io/training-git/" type="button">Home</a></h3>
+</body>
+</html>
