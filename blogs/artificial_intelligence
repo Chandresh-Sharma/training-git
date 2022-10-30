@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <title>ARTIFICIAL INTELLIGENCE</title>
+
+	<style type = text/css>		h1, h3 {
+
+			text-align: center;
+
+		}
+
+	</style>
+
+</head>
+
+<body>
+
+	<h1>What is an ARTIFICIAL INTELLIGENCE?</h1>
+
+  <p>
+
+Artificial intelligence (AI) is intelligence demonstrated by machines, as opposed to the natural intelligence displayed by animals and humans. AI research has been defined as the field of study of intelligent agents, which refers to any system that perceives its environment and takes actions that maximize its chance of achieving its goals.
+
+  </p>
+
+  <h3><a href="https://chandresh-sharma.github.io/training-git/" type="button">Home</a></h3>
+
+</body>
+
+</html>
