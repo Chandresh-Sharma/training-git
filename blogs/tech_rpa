@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <title>Blog</title>
+
+	<style type = text/css>
+
+		h1, h3 {
+
+			text-align: center;
+
+		}
+
+	</style>
+
+</head>
+
+<body>
+
+	<h1>What is RPA?</h1>
+
+  <p>
+
+Robotic process automation (RPA) is a form of business process automation technology based on metaphorical software robots (bots) or on artificial intelligence (AI)/digital workers.[1] It is sometimes referred to as software robotics (not to be confused with robot software).
+
+  </p>
+
+  <h3><a href="https://chandresh-sharma.github.io/training-git/" type="button">Home</a></h3>
+
+</body>
+
+</html>
